@@ -1,6 +1,7 @@
 ---
-Type: Standup
 Created: 2025-03-13
+tags: 
+Type: MoC
 Links:
   - daily
   - standup
@@ -9,20 +10,17 @@ Links:
 References:
   - https://itkcl.atlassian.net/jira/software/c/projects/AGP/boards/86
   - https://itkcl.atlassian.net/jira/servicedesk/projects/ITS/queues/custom/220
+aliases:
 ---
 #### Service Desk: [On-Call Schedule - Agent Portal Firefighters](https://itkcl.atlassian.net/jira/ops/who-is-on-call)
 #### What I've worked on ----> `="[[" + dateformat(date(today) - dur(1day), "yyyy-MM-dd") + "|Yesterday's Standup Notes]]"`
 ---
 
 ##### Today - <%+ tp.date.now() %> 
-- [x] - [AGP-805](https://itkcl.atlassian.net/browse/AGP-805) ✅ 2025-03-13
-- [ ] Study Sesh - 
+- [ ] 
+- [ ] 
 
 
 ###### Notes
 
-#readlater
-[[new note]] kwjdhkjd 
-
-
-
+---
