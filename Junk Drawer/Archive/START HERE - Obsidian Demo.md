@@ -13,6 +13,7 @@ tags:
 ---
 ### Why Obsidian? 
 Quick answer: Free, minimal, customizable. 
+# [[README]]
 
 > *You decide where your files go and how complex your system is.
 
