@@ -82,13 +82,13 @@ add something here:
 # Show the Map of Contents:
 #### [Click here to see the MoC...](https://bryanhogan.com/blog/obsidian-zettelkasten#:~:text=Map%20of%20Contents,will%20organically%20grow.)
 
-Did I mention that it's dev friendly? You can use git and have source control tied to your note taking utilizing a workflow we're familiar with! See: https://github.com/zsisler/Obsidian-Vault
+Did I mention that it's dev friendly? You can use git and have source control tied to your note taking utilizing a workflow we're familiar with! See: [zsisler/KCL-DEV5_Vault: Shared Obsidian Vault](https://github.com/zsisler/KCL-DEV5_Vault) 
 
 Follow these instructions for git functionality: https://publish.obsidian.md/git-doc/Getting+Started
 
 ```csharp
 Console.Writeline("Hello World!");
-bool likesObsidian = true;
+bool likesObsidian = false;
 
 if(!likesObsidian)
 {
